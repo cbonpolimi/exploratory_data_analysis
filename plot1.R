@@ -1,4 +1,4 @@
-setwd("C:\\Users\\Carlo\\Documents\\R\\exploratory_data_analysis\\exdata-data-household_power_consumption")
+
 
 raw<-read.csv("household_power_consumption.txt",sep=';')
 
