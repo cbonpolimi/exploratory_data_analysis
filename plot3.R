@@ -1,4 +1,5 @@
-setwd("C:\\Users\\Carlo\\Documents\\R\\exploratory_data_analysis\\exdata-data-household_power_consumption")
+#save to a temporary folder the file at this url  https://archive.ics.uci.edu/ml/machine-learning-databases/00235/household_power_consumption.zip
+
 
 raw<-read.csv("household_power_consumption.txt",sep=';')
 
